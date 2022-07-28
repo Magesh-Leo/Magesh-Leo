@@ -44,12 +44,10 @@ You can use the website to generate badges: https://shields.io/
 <div align=center>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magesh-Leo&theme=vue" alt="summary" />
 </div>
-##<img src="#" alt="summary" />
 
-##<div align=center>
-##<img src="https://github-profile-trophy.vercel.app/?username=Magesh-Leo" alt="summary" />
-##  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Leo" alt="summary" />
-##  </div>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=Magesh-Leo" alt="summary" />
+</div>
 
 ## Support me
 <!-- Your support, if you have it 
