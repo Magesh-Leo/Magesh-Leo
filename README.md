@@ -57,7 +57,7 @@ I created these images, feel free to use them.
 -->
 <p align="center">
   <a href="#" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="#"/>
+      <img width="18%" alt="" src="#"/>
   </a>
 </p>
 
