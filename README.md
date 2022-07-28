@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Magesh M, a Developer 🚀 from India.
+## Hi, I'm Magesh Srinivasan, a Developer 🚀 from India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
