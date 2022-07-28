@@ -32,9 +32,13 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img width="10%" src="https://img.shields.io/badge/-React--NextJs.-red">
  <img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img width="10%" src="https://img.shields.io/badge/-ReactJs.-red">
+  <img width="10%" src="https://img.shields.io/badge/NextJs-38B2AC?style=for-the-badge&logo=nextjs&logoColor=white">
+  <img width="10%" src="https://img.shields.io/badge/-Python-green">
+  <img width="10%" src="https://img.shields.io/badge/-Django-lightgrey">
+  <img width="10%" src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit">
 <img width="10%" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
