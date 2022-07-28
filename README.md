@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Magesh Srinivasan, a Developer 🚀 from India.
+## Hi, I'm Magesh Srinivasan, a Developer 🚀 from TamilNadu.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -53,6 +53,17 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://github-profile-trophy.vercel.app/?username=Magesh-Leo" alt="summary" />
 </div>
 
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
+	<p align="center">
+		Hi, I'm Magesh, a passionate web developer from Chennai, India. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean, understandable and testable code. I love to work in & as a team. <br /><br />
+		Other than coding, I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Kollywood movies and series.although I don’t have one.  <br /><br />
+		I’m more of a casual person, I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. I believe people should be valued equally regardless of their birth.  <br /><br />
+		Other than all these, I love talking to people! So maybe slide into my DM?
+	</p>
+<hr />
+</details>
+
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
@@ -62,5 +73,5 @@ I created these images, feel free to use them.
       <img width="18%" alt="" src="#"/>
   </a>
 </p>
-
+<p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
 ---
