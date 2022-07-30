@@ -63,7 +63,100 @@ You can use the website to generate badges: https://shields.io/
 	</p>
 <hr />
 </details>
-
+<details>
+	<summary><h3 style="display: inline;">What do I know?</h3></summary>
+	<h4 align="center">Languages and Libraries</h4>
+	<p align="center">
+	<table align="center">
+		<tr align="center">
+			<td align="center" width="96">
+				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<br />HTML
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+				<br />CSS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+				<br />JS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="TS" width="30px" src="./blobs/languages/typescript.svg" />
+				<br />TS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Styled components" width="30px" src="./blobs/libraries/styled-components.svg" />
+				<br />Styled
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+				<br />Python
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+				<br />NodeJS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NestJS" width="30px" src="./blobs/libraries/nestjs.svg" />
+				<br />NestJS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+				<br />React
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NextJS" width="30px" src="./blobs/libraries/next-js.svg" />
+				<br />NextJS
+			</td>
+		</tr>
+	</table>
+	</p>
+	<h4 align="center">Tools and other stuff</h4>
+	<p align="center">
+	<table>
+		<tr>
+			<td align="center" width="96">
+				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+				<br />MySql
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="sequelize orm" width="30px" src="./blobs/tools/sequelize.svg" />
+				<br />AutoMapper
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="auth0" width="30px" src="./blobs/tools/auth0.svg" />
+				<br />TypeOrm
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="figma" width="30px" src="./blobs/tools/figma.svg" />
+				<br />Adobe XD
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
+				<br />Heroku
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="netlify" width="30px" src="./blobs/tools/netlify.svg" />
+				<br />Netlify
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="vercel" width="30px" src="./blobs/tools/vercel.svg" />
+				<br />Vercel
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
+				<br />Prettier
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
+				<br />ESlint
+			</td>
+		</tr>
+	</table>
+	</p>
+	<hr />
+</details>
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
