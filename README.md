@@ -63,7 +63,7 @@ You can use the website to generate badges: https://shields.io/
 	</p>
 <hr />
 </details>
-<details>
+<details align="center">
 	<summary><h3 style="display: inline;">What do I know?</h3></summary>
 	<h4 align="center">Languages and Libraries</h4>
 	<p align="center">
