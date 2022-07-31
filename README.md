@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="mailto:mageshjoy651@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://www.linkedin.com/in/magesh-srinivasan-929b5a193/">
+<a href="https://www.linkedin.com/in/magesh-srinivasan-929b5a193">
 <img src="https://img.shields.io/badge/visit%20my%20polywork-0A66C2?style=for-the-badge&logo=polywork&logoColor=white" alt="linkedin" />
 </a>
 </div>
