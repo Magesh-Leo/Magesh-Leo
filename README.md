@@ -38,7 +38,7 @@ You can use the website to generate badges: https://shields.io/
  <img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img width="10%" src="https://img.shields.io/badge/ReactJs-38B2AC?style=for-the-badge&logo=react&logoColor=white">
-<img width="10%" src="https://img.shields.io/badge/next-E0234E?style=for-the-badge&logo=next&logoColor=white">
+<img width="10%" src="https://img.shields.io/badge/nextjs-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
   <img width="10%" src="https://img.shields.io/badge/NextJs-38B2AC?style=for-the-badge&logo=next&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/python-E0234E?style=for-the-badge&logo=python&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/django-E0234E?style=for-the-badge&logo=django&logoColor=white">
