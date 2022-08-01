@@ -164,7 +164,6 @@ You can use the website to generate badges: https://shields.io/
 	</p>
 	<hr />
 </details>-->
-## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
