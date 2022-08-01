@@ -47,8 +47,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="10%" src="https://img.shields.io/badge/django-E0234E?style=for-the-badge&logo=django&logoColor=white">
   <img width="10%" src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit">
-<img width="10%" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />  
+<img width="10%" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> 
 </p>
 
 
