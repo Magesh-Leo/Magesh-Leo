@@ -34,16 +34,21 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Frameworks:** 
 
 <p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
   <img width="10%" src="https://img.shields.io/badge/ReactJs-38B2AC?style=for-the-badge&logo=react&logoColor=white">
-<img width="10%" src="https://img.shields.io/badge/nextjs-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 <img width="10%" src="https://img.shields.io/badge/python-E0234E?style=for-the-badge&logo=python&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/django-E0234E?style=for-the-badge&logo=django&logoColor=white">
   <img width="10%" src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white">
 <img width="10%" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit">
 <img width="10%" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />  
 </p>
 
 
