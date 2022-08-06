@@ -174,3 +174,7 @@ I created these images, feel free to use them.
 </p>
 <p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
 
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/mageshjoy60" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
