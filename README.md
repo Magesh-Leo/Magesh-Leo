@@ -24,11 +24,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently using React Nextjs(TailwindCss) and NestJs(TypeORM);
-- 🌱 I’m currently learning Advance Distributed Architecture, Flutter; 
-- 🤔 I’m looking for help with Design Pattern;
+- 👨🏽‍💻 I’m currently using React Nextjs(TailwindCss) and NodeJs NestJs(TypeORM);
+- 🌱 I’m currently learning Advance Distributed Architecture, React Native; 
 - 💬 Ask me about programming, I am happy to help;
-- ⚡️ Fun-Fact: I have a low score in Computer Application;
 - 📫 How to reach me: <a href="mailto:mageshjoy651@gmail.com">Email-me</a>;
 
 **Languages and Frameworks:** 
