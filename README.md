@@ -24,8 +24,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently using React Nextjs(TailwindCss) and NodeJs NestJs(TypeORM);
-- 🌱 I’m currently learning Advance Distributed Architecture, React Native; 
+- 👨🏽‍💻 I’m currently using React Nextjs(Tailwind,Bootstrap) and NodeJs NestJs(TypeORM) ExpressJs;
+- 🌱 I’m currently learning Advance Distributed Architecture, Mobile Application using React Native; 
 - 💬 Ask me about programming, I am happy to help;
 - 📫 How to reach me: <a href="mailto:mageshjoy651@gmail.com">Email-me</a>;
 
@@ -61,10 +61,12 @@ You can use the website to generate badges: https://shields.io/
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
-		Hi, I'm Magesh, a passionate web developer from Chennai, India. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean, understandable and testable code. I love to work in & as a team. <br /><br />
-		Other than coding, I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Kollywood movies and series.although I don’t have one.  <br /><br />
-		I’m more of a casual person, I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. I believe people should be valued equally regardless of their birth.  <br /><br />
-		Other than all these, I love talking to people! So maybe slide into my DM?
+		I'm Magesh, a passionate web developer from Chennai, India, specializing in web development and design. I enjoy designing and coding, focusing on writing clean, understandable, and testable code 👨🏼‍💻. Collaborating with a team is something I truly enjoy.
+		<br /><br />
+		In my free time, I like to cook and explore new recipes. When I'm not cooking, I indulge in watching movies, particularly Kollywood movies and series, although I don't have a specific favorite.
+		 <br /><br />
+		I have a casual demeanor and believe in treating everyone as fellow human beings, regardless of their socio-political or economic status. Equality is a core value for me, advocating for equal treatment based on gender, race, sexuality, religion, caste, and any other factors. I believe in valuing individuals equally, irrespective of their circumstances.  <br /><br />
+		Apart from all these interests, I genuinely enjoy engaging in conversations with people. So feel free to reach out and slide into my DMs!
 	</p>
 <hr />
 </details>
@@ -165,14 +167,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-<p align="center">
+<!--<p align="center">
   <a href="#" target="_blank">
       <img width="18%" alt="" src="#"/>
   </a>
 </p>
-<p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>
-
+<p align="center"> The above stats do not show my skill levels or proficiency. It just shows what languages I use the most. The stats are not accurate and some aren't even listed. P.S: Please don't ask me if I'm a C developer or HTML Programmer.</p>-->
+<!--
 ## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/mageshjoy60" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/mageshjoy60" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>-->
 
