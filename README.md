@@ -1,88 +1,216 @@
-## Hi, I'm Magesh Srinivasan! 🚀
-
-I'm a passionate Developer from Chennai, specializing in web development and design. I enjoy designing and coding, focusing on writing clean, understandable, and testable code. Collaborating with a team is something I truly enjoy. 
-
 <div align="center">
+
+# Hey there 👋, I'm Magesh Srinivasan
+
+### Full Stack Developer • MERN Stack • Next.js • NestJS • AWS
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Next.js+Developer;NestJS+%2B+Node.js+Backend+Developer;AWS+%2B+Docker+%2B+Kubernetes;Always+Learning+New+Things+🚀" />
+
+<br/>
+
 <a href="https://www.linkedin.com/in/magesh-srinivasan-929b5a193/">
-    <img src="https://img.shields.io/badge/Visit%20my%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mageshjoy651@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Magesh-Leo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.polywork.com/magesh?preview_profile=true">
-    <img src="https://img.shields.io/badge/Visit%20my%20Polywork-0A66C2?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork" />
+  <img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/>
 </a>
+
 </div>
-
-&nbsp;
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
-
-**Talking about Personal Stuff:**
-
-- 👨🏽‍💻 I’m currently using React Next.js (Tailwind, Bootstrap) and Node.js NestJS (TypeORM, Mongoose) Express.js;
-- 🌱 I’m currently learning Advanced Distributed Architecture, Mobile Application using React Native; 
-- 💬 Ask me about programming, I am happy to help;
-- 📫 How to reach me: [Email me](mailto:mageshjoy651@gmail.com);
-
-**Languages and Frameworks:**
-
-<p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/ReactJs-38B2AC?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/python-E0234E?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/django-E0234E?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySql-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
-</p>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magesh-Leo&theme=vue" alt="summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Magesh-Leo" alt="trophies" />
-</div>
-
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">Who am I?</h3></summary>
-  <p align="center">
-  I'm Magesh, a passionate web developer from Chennai, India, specializing in web development and design. I enjoy designing and coding, focusing on writing clean, understandable, and testable code 👨🏼‍💻. Collaborating with a team is something I truly enjoy.
-  <br /><br />
-  In my free time, I like to cook and explore new recipes. When I'm not cooking, I indulge in watching movies, particularly Kollywood movies and series, although I don't have a specific favorite.
-  <br /><br />
-  I have a casual demeanor and believe in treating everyone as fellow human beings, regardless of their socio-political or economic status. Equality is a core value for me, advocating for equal treatment based on gender, race, sexuality, religion, caste, and any other factors. I believe in valuing individuals equally, irrespective of their circumstances.
-  <br /><br />
-  Apart from all these interests, I genuinely enjoy engaging in conversations with people. So feel free to reach out and slide into my DMs!
-  </p>
-  <hr />
-</details>
-
-## My Strengths and Areas for Improvement
-
-**Strengths:**
-- Strong knowledge in React, Next.js, Node.js, and NestJS.
-- Proficient in TypeScript, Tailwind CSS, and Bootstrap.
-- Experience with Docker, and MySQL.
-- Excellent teamwork and collaboration skills.
-- Passionate about clean code and best practices.
-
-**Areas for Improvement:**
-- Need to deepen my understanding of Advanced Distributed Architecture.
-- Improve my skills in mobile application development using React Native.
-- Enhance my knowledge of TypeORM and other ORMs.
-- Work on contributing more to open-source projects.
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/magesh-srinivasan-929b5a193/), [Polywork](https://www.polywork.com/magesh?preview_profile=true), or send me an [email](mailto:mageshjoy651@gmail.com).
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+```ts
+const magesh = {
+  location: "Chennai, India",
+  role: "Full Stack + AI Developer",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Redux Toolkit"
+  ],
+
+  backend: [
+    "Node.js",
+    "NestJS",
+    "Express.js",
+    "Python",
+    "FastAPI",
+    "REST APIs"
+  ],
+
+  aiEngineering: [
+    "LangChain",
+    "LangGraph",
+    "AWS Bedrock",
+    "AI Agents",
+    "RAG Applications",
+    "LLM Workflows"
+  ],
+
+  database: [
+    "MongoDB",
+    "MySQL",
+    "Mongoose",
+    "TypeORM"
+  ],
+
+  devops: [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Serverless"
+  ],
+
+  currentlyLearning: [
+    "Distributed Systems",
+    "Agentic AI",
+    "System Design",
+    "React Native",
+    "Flutter"
+  ],
+
+  funFact: "I enjoy building scalable AI-powered applications 🚀"
+}
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,redux" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,django" />
+
+### AI / LLM Engineering
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+</div>
+
+---
+
+# 🔥 What I Do
+
+✨ Build scalable Full Stack Applications  
+✨ Develop AI-powered applications & workflows  
+✨ Create modern UI using React & Next.js  
+✨ Build secure backend systems using NestJS & FastAPI  
+✨ Work with AWS cloud infrastructure & Bedrock  
+✨ Build AI Agents using LangChain & LangGraph  
+✨ Design RAG-based applications & LLM workflows  
+✨ Build video upload & processing systems  
+✨ Focus on scalable architecture & clean code
+
+---
+
+# 💬 Ask Me About
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - NestJS
+  - Express.js
+  - FastAPI
+
+AI Engineering:
+  - LangChain
+  - LangGraph
+  - AWS Bedrock
+  - AI Agents
+  - RAG Systems
+
+Cloud:
+  - AWS
+  - Docker
+  - Kubernetes
+
+Other:
+  - Authentication
+  - REST APIs
+  - System Design
+```
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mageshjoy651@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/magesh-srinivasan-929b5a193/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Magesh-Leo">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=Magesh-Leo&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
